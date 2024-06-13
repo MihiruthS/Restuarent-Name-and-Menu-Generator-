@@ -12,3 +12,4 @@ Provide a type of cuisine, and the application will return:
 
 This project was inspired by and developed using the tutorials from [codebasics YouTube channel](https://www.youtube.com/@codebasics).
 
+![Screenshot 2024-06-13 111605](https://github.com/MihiruthS/Restuarent-Name-and-Menu-Generator-/assets/166645514/3160f7dc-35e0-478e-9af3-17d8bfc0aef1)
