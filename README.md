@@ -1,6 +1,6 @@
 # Cuisine to Restaurant and Menu Generator
 
-This project is a simple LLM (Language Model) application that generates a restaurant name and a menu based on a given type of cuisine. Initially, the Google PaLM API was used, but the final application utilizes the OpenAI API.
+his project is a simple LLM (Language Model) application that generates a restaurant name and a menu based on a given type of cuisine. Initially, the Google PaLM API was used, but the final application utilizes the OpenAI API. The project also leverages LangChain for chaining LLM calls, Jupyter Notebooks for development and experimentation, and Streamlit for the web interface.
 
 ## How It Works
 
